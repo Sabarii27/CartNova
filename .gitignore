@@ -1,0 +1,19 @@
+@"
+# Java / Spring Boot
+cartnova-backend/target/
+cartnova-backend/.idea/
+cartnova-backend/*.iml
+
+# Node / React
+cartnova-frontend/node_modules/
+cartnova-frontend/dist/
+
+# Environment files
+.env
+cartnova-backend/.env
+cartnova-frontend/.env
+
+# IDE
+.vscode/
+*.iml
+"@ | Set-Content .gitignore

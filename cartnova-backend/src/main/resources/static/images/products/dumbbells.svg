@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+<rect width="600" height="450" fill="#eef2f4"/>
+<ellipse cx="300" cy="352" rx="230" ry="13" fill="#31434f" opacity=".18"/>
+<rect x="216" y="208" width="168" height="26" rx="13" fill="#9fb2bf"/>
+<path d="M240 208V234M258 208V234M276 208V234M294 208V234M312 208V234M330 208V234M348 208V234M366 208V234" stroke="#7f93a1" stroke-width="3"/>
+<rect x="140" y="140" width="42" height="162" rx="10" fill="#1b2a35"/><rect x="418" y="140" width="42" height="162" rx="10" fill="#1b2a35"/>
+<rect x="180" y="165" width="38" height="112" rx="8" fill="#2c4152"/><rect x="382" y="165" width="38" height="112" rx="8" fill="#2c4152"/>
+<rect x="116" y="196" width="26" height="50" rx="6" fill="#9fb2bf"/><rect x="458" y="196" width="26" height="50" rx="6" fill="#9fb2bf"/>
+<text x="161" y="228" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#ffc233">12</text>
+<text x="439" y="228" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#ffc233">12</text>
+</svg>

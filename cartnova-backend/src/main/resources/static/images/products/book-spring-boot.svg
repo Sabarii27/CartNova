@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+<rect width="600" height="450" fill="#e1f3e8"/>
+<ellipse cx="300" cy="412" rx="140" ry="10" fill="#1e8a4c" opacity=".18"/>
+<rect x="185" y="40" width="230" height="365" rx="8" fill="#1e8a4c"/>
+<rect x="185" y="40" width="26" height="365" rx="8" fill="#17613a"/>
+<text x="315" y="120" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#fff">Spring</text>
+<text x="315" y="162" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#fff">Boot</text>
+<text x="315" y="194" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#d4f0df">in Depth</text>
+<path d="M315 345Q255 335 262 270Q268 232 315 220Q362 232 368 270Q375 335 315 345Z" fill="#ffc233"/>
+<path d="M315 340V248M315 290L290 268M315 305L340 280" stroke="#17613a" stroke-width="5" stroke-linecap="round" fill="none"/>
+<rect x="230" y="372" width="170" height="6" fill="#ffc233"/>
+</svg>

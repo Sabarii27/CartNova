@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+<rect width="600" height="450" fill="#f3e9e1"/>
+<ellipse cx="300" cy="392" rx="190" ry="12" fill="#5a3a22" opacity=".15"/>
+<rect x="165" y="352" width="270" height="26" rx="8" fill="#1b2a35"/>
+<rect x="165" y="80" width="80" height="276" rx="10" fill="#2c4152"/>
+<rect x="165" y="80" width="270" height="80" rx="14" fill="#1b2a35"/>
+<rect x="182" y="170" width="46" height="170" rx="8" fill="#a9d4f0" opacity=".85"/>
+<rect x="182" y="240" width="46" height="100" rx="8" fill="#6fb4e0"/>
+<circle cx="395" cy="120" r="14" fill="#ffc233"/>
+<rect x="278" y="160" width="40" height="16" rx="4" fill="#2c4152"/>
+<circle cx="298" cy="192" r="4" fill="#7a4a2b"/>
+<path d="M280 235H400L392 346Q390 354 380 354H300Q290 354 288 346Z" fill="#dfeff0" stroke="#9fb2bf" stroke-width="3"/>
+<path d="M284 285H396L392 346Q390 354 380 354H300Q290 354 288 346Z" fill="#7a4a2b"/>
+<path d="M400 252Q446 256 442 296Q438 330 394 330" fill="none" stroke="#1b2a35" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+<rect width="600" height="450" fill="#e8e1fb"/>
+<ellipse cx="300" cy="420" rx="120" ry="10" fill="#4a2fa0" opacity=".15"/>
+<rect x="205" y="30" width="190" height="385" rx="32" fill="#1b2a35"/>
+<rect x="216" y="46" width="168" height="353" rx="22" fill="#0b6e6e"/>
+<rect x="272" y="54" width="56" height="14" rx="7" fill="#1b2a35"/>
+<text x="300" y="115" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#fff">10:24</text>
+<g fill="#fff" opacity=".9">
+<rect x="236" y="160" width="40" height="40" rx="10"/><rect x="280" y="160" width="40" height="40" rx="10" fill="#ffc233"/><rect x="324" y="160" width="40" height="40" rx="10"/>
+<rect x="236" y="212" width="40" height="40" rx="10" fill="#ffc233"/><rect x="280" y="212" width="40" height="40" rx="10"/><rect x="324" y="212" width="40" height="40" rx="10"/>
+<rect x="236" y="264" width="40" height="40" rx="10"/><rect x="280" y="264" width="40" height="40" rx="10"/><rect x="324" y="264" width="40" height="40" rx="10" fill="#ffc233"/>
+</g>
+<rect x="236" y="340" width="128" height="40" rx="20" fill="#fff" opacity=".3"/>
+</svg>

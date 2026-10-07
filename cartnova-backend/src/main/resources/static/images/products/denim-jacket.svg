@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+<rect width="600" height="450" fill="#e3ecff"/>
+<ellipse cx="300" cy="410" rx="190" ry="12" fill="#214a9c" opacity=".15"/>
+<path d="M215 70L150 98L95 335L148 346L196 200Z" fill="#3d6a9e"/>
+<path d="M385 70L450 98L505 335L452 346L404 200Z" fill="#3d6a9e"/>
+<path d="M215 70H385L408 125V388H192V125Z" fill="#4a7ab3"/>
+<path d="M255 62L300 128L345 62L328 54L300 90L272 54Z" fill="#2c5080"/>
+<rect x="192" y="368" width="216" height="20" fill="#2c5080"/>
+<path d="M300 128V368" stroke="#2c5080" stroke-width="4"/>
+<g fill="#ffc233"><circle cx="300" cy="170" r="7"/><circle cx="300" cy="225" r="7"/><circle cx="300" cy="280" r="7"/><circle cx="300" cy="335" r="7"/></g>
+<g fill="none" stroke="#2c5080" stroke-width="3"><rect x="222" y="195" width="56" height="58" rx="5"/><rect x="322" y="195" width="56" height="58" rx="5"/><path d="M222 207H278M322 207H378" stroke-dasharray="5 4"/></g>
+<path d="M150 98L196 200M450 98L404 200" stroke="#2c5080" stroke-width="3" fill="none"/>
+</svg>
