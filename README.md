@@ -256,6 +256,12 @@ The cart shows selected products, quantities, individual prices and the complete
 
 ![CartNova Cart](docs/screenshots/cart.png)
 
+### 6. Checkout Details
+
+The checkout details page displays the product image, category, price, stock availability and description, with an option to add the product to the cart.
+
+![CartNova Product Details](docs/screenshots/checkout.png)
+
 ---
 
 ## 🚀 Getting Started
